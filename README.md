@@ -56,7 +56,7 @@ Este é um projeto desenvolvido durante a **[Next Level Week Together](https://n
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-- [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
+- [Layout Web](https://www.figma.com/file/4vLzM8AgSRhtjuHZzgr6xU/Roquet.q-02-Copy?node-id=0%3A1) 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
